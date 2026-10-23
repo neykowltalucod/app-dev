@@ -64,6 +64,6 @@ You can learn more about the series on [MyAnimeList](https://myanimelist.net/ani
 ![Heaven Official's Blessing](tgcfimage.jpg)
 
 
-### Final Thoughts {#final-thoughts}
+### Final Thoughts
 
 Overall, *Heaven Official's Blessing* is one of my favorite series because it has an engaging story, interesting characters, and lessons that readers and viewers can appreciate. I would recommend it to anyone who enjoys fantasy stories with emotional depth.
