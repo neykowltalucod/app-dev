@@ -51,9 +51,7 @@ I would describe the series as `meaningful and unforgettable`.
 
 ### A Little Reminder
 
-The series reminds me that ==kindness and perseverance are important==, even when facing challenges.
-
-Water is represented by the chemical formula H~2~O, while a squared number can be written as X^2^ in Markdown.
+The series reminds me that kindness and perseverance are important, even when facing challenges.
 
 ~~I think a good story only needs action.~~ I believe a good story also needs meaningful characters and emotions that will leave an impact to you.
 
